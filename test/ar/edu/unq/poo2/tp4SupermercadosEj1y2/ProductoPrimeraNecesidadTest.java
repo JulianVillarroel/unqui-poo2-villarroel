@@ -1,11 +1,11 @@
 package ar.edu.unq.poo2.tp4SupermercadosEj1y2;
 
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import ar.edu.unq.poo2.tp4SupermercadoEj1y2.ProductoPrimeraNecesidad;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 public class ProductoPrimeraNecesidadTest {
 
